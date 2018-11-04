@@ -11,3 +11,9 @@
 **Today's Goal**: Today, I learned about Dialog Flow and how to implement it in my Facebook Messenger Bot project that I'm working on.
 
 **My Thought's**: I've always wanted to challenge myself by building a chatbot, a friend introduced me to Dialog Flow by Google that acts as an alternative to learning NLP for the sake of this project. The chatbot would probably take a week to complete.
+
+### Day 2: November 03, 2018
+
+**Today's Goal**: After some tinkering and reading of documentation, I've successfully implemented Dialog Flow within my Facebook Messenger Bot with Node JS on Express.
+
+**My Thought's**: After installing the Dialog Flow API using NPM, I read up the documentation and had a couple of pointers from the online community and wrote the processMessage function which adds client access as well as Facebook access. Eventually setup a couple of endpoints and the bot is now working.
