@@ -22,4 +22,10 @@
 
 **Today's Goal**: Today, I continued with the Modern React/Redux course on Udemy and I re-learned props in React.
 
-**My Thought's**: 
+**My Thought's**:
+
+### Day 4: November 05, 2018
+
+**Today's Goal**: I completed W3School's JavaScript exercise from Question 1 to Question 10. I implemented a calculator, sorted an array and just core JS fundamentals.
+
+**My Thought's**:
