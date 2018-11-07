@@ -29,3 +29,9 @@
 **Today's Goal**: I completed W3School's JavaScript exercise from Question 1 to Question 10. I implemented a calculator, sorted an array and just core JS fundamentals.
 
 **My Thought's**:
+
+### Day 5: November 06, 2018
+
+**Today's Goal**: Successfully built and deployed my first Facebook Messenger chatbot, powered by Dialog Flow with Node JS and Express. 
+
+**My Thought's**:
