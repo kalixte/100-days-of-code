@@ -32,6 +32,12 @@
 
 ### Day 5: November 06, 2018
 
-**Today's Goal**: Successfully built and deployed my first Facebook Messenger chatbot, powered by Dialog Flow with Node JS and Express. 
+**Today's Goal**: Successfully built and deployed my first Facebook Messenger chatbot, powered by Dialog Flow with Node JS and Express.
+
+**My Thought's**:
+
+### Day 6: November 08, 2018
+
+**Today's Goal**: Completed the W3C's HTML and CSS revision practice. By completing the exercise I managed to refresh on the core HTML and CSS concepts. 
 
 **My Thought's**:
